@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "iPhone 15",
+      "precio": 6200,
+      "categoria": "Smartphone",
+      "estado": "Disponible",
+      "imagen":  "/src/assets/IPHONE15.webp"
+    },
+    {
+      "id": 2,
+      "nombre": "iPhone 15 Pro",
+      "precio": 8500,
+      "categoria": "Smartphone",
+      "estado": "Disponible",
+      "imagen":  "/src/assets/IPHONE15PRO.webp"
+    },
+    {
+      "id": 3,
+      "nombre": "iPhone 16 Pro Max",
+      "precio": 11000,
+      "categoria": "Smartphone",
+      "estado": "Agotado",
+      "imagen": "/src/assets/Iphone16promax.jpg"
+    }
+  ]
+}
